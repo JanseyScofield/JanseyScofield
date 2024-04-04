@@ -12,7 +12,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br/>
-📚 Curso Análise e Desenvolvimento de Sistemas no   Instituto Federal da Bahia e estudo na Infinity School. 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanseyScofield&layout=compact)
+
+📚 Curso Análise e Desenvolvimento de Sistemas no  Instituto Federal da Bahia e estudo na Infinity School. 
 <br/>
 📧E-mail: janscofield10gmail.com.
 
