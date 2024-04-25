@@ -21,7 +21,7 @@
 
 📚 Curso Análise e Desenvolvimento de Sistemas no  Instituto Federal da Bahia e estudo na Infinity School. 
 <br/>
-👨‍💻 Faço estágio na FAPEX.
+👨‍💻 Sou estagiário de desenvolvimento de software na FAPEX, onde desenvolvo utilizando .NET.
 <br/>
 📧 E-mail: janscofield10gmail.com.
 
