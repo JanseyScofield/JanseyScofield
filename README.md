@@ -21,6 +21,8 @@
 
 📚 Curso Análise e Desenvolvimento de Sistemas no  Instituto Federal da Bahia e estudo na Infinity School. 
 <br/>
-📧E-mail: janscofield10gmail.com.
+👨‍💻 Faço estágio na FAPEX.
+<br/>
+📧 E-mail: janscofield10gmail.com.
 
 
