@@ -22,7 +22,7 @@
 
 📚 Curso Análise e Desenvolvimento de Sistemas no  Instituto Federal da Bahia e estudo na Infinity School. 
 <br/>
-👨‍💻 Sou estagiário de desenvolvimento de software na FAPEX, onde desenvolvo utilizando .NET Core,C#,Flutter e Dart.
+👨‍💻 Sou estagiário de desenvolvimento de software na FAPEX.
 <br/>
 📧 E-mail: janscofield10gmail.com.
 
