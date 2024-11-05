@@ -24,8 +24,7 @@
 <br/>
 👨‍💻 Estagiei como desenvolvedor full-stack na Computação Brasil.
 <br/>
-<br/>
-👨‍💻 Sou estagiário em Business Intelligence na Horus, onde trabalho com Qlik Sense.
+📉Sou estagiário em Business Intelligence na Horus, onde trabalho com Qlik Sense.
 <br/>
 📧 E-mail: janscofield10gmail.com.
 
