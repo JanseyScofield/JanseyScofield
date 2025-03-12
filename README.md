@@ -1,10 +1,10 @@
-## ⭐ Seja bem vindo(a) ao meu Github! ⭐
+## ⭐Welcome to my GitHub! ⭐
 
 [![Linkeldn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janseyscofield)
 
 ![Jansey GitHub stats](https://github-readme-stats.vercel.app/api?username=JanseyScofield&show_icons=true&theme=dracula)
 
-## 🖥️Tecnológias que trabalho:
+## 🖥️Technologies I work with:
 <div>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
@@ -21,11 +21,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanseyScofield&layout=compact)
 
-📚 Curso Análise e Desenvolvimento de Sistemas no  Instituto Federal da Bahia e estudo na Infinity School. 
+📚I am majoring in Systems Analysis and Development at Instituto Federal da Bahia and I am taking an extracurricular course in Full-Stack Developer at Infinity School. 
 <br/>
-👨‍💻 Estagiei como desenvolvedor full-stack na Computação Brasil.
+👨‍💻 I was a full-stack developer intern at Computação Brasil.
 <br/>
-📉Sou estagiário em Business Intelligence na Horus, onde trabalho com Qlik Sense.
+📉I am a Business Intelligence intern at Horus, where I work with Qlik Sense.
 <br/>
 📧 E-mail: janscofield10gmail.com.
 
