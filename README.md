@@ -25,7 +25,7 @@
 <br/>
 👨‍💻 I was a full-stack developer intern at Computação Brasil.
 <br/>
-📉I am a Business Intelligence intern at Horus, where I work with Qlik Sense.
+📉I was a Business Intelligence intern at Horus, where I work with Qlik Sense.
 <br/>
 📧 E-mail: janscofield10gmail.com.
 
