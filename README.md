@@ -5,7 +5,7 @@
 ![Jansey GitHub stats](https://github-readme-stats.vercel.app/api?username=JanseyScofield&show_icons=true&theme=dracula)
 
 ## 🖥️Technologies I work with:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cs,dotnet,blazor,javascript,typescript,nodejs,react,python,mysql&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,java,spring,typescript,react,python,postgres&theme=light)
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanseyScofield&layout=compact)
