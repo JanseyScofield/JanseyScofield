@@ -9,8 +9,6 @@
 
 📚I am majoring in Systems Analysis and Development at Instituto Federal da Bahia. 
 <br/>
-👨‍💻 I am a full-stack developer at Instituto Recôncavo de Tecnologia.
+👨‍💻 I am a system analyst at Instituto Recôncavo de Tecnologia.
 <br/>
 📧 E-mail: janscofield10gmail.com.
-
-
