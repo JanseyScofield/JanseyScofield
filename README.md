@@ -1,18 +1,23 @@
-## ⭐Welcome to my GitHub! ⭐
+# Hi, I'm Jansey Scofield! 👋
 
-[![Linkeldn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janseyscofield)
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JanseyScofield&show_icons=true&theme=transparent&rank_icon=github"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanseyScofield&layout=donut&size_weight=0.5&count_weight=0.5&theme=transparent" alt="Top Langs"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janseyscofield)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janscofield10@gmail.com)
+
+👨‍💻 **Systems Analyst I** at Recôncavo Institute of Technology.<br/>
+📚 Majoring in Systems Analysis and Development at **IFBA**.<br/>
+🏗️ Focused on software architecture (**DDD, Clean Architecture, CQRS**, and Design Patterns).
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JanseyScofield&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanseyScofield&layout=compact&hide=html,css&langs_count=8&theme=dracula" alt="Top Langs"/>
 </div>
 
-
-## 🖥️Technologies I work with:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,java,spring,typescript,react,python,postgres,docker,azuredevops&theme=light)
 <br/>
 
-📚I am majoring in Systems Analysis and Development at Instituto Federal da Bahia. 
-<br/>
-👨‍💻 I am a system analyst at Instituto Recôncavo de Tecnologia.
-<br/>
-📧 E-mail: janscofield10gmail.com.
+## 🖥️ Technologies & Tools
+
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,blazor,java,spring,ts,react,python,postgres,docker,azuredevops,rabbitmq,linux,git&perline=7" alt="My Skills"/>
+</div>
