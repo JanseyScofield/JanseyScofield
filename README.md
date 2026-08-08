@@ -8,11 +8,7 @@
 🏗️ Focused on software architecture (**DDD, Clean Architecture, CQRS**, and Design Patterns).
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JanseyScofield&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanseyScofield&layout=compact&hide=html,css&langs_count=8&theme=dracula" alt="Top Langs"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=johncobain&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
